@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoodAnalyserException", "MoodAnalyserException\MoodAnalyserException.csproj", "{FB176873-5AB3-49AA-90D7-9AF11FA07B17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB176873-5AB3-49AA-90D7-9AF11FA07B17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB176873-5AB3-49AA-90D7-9AF11FA07B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB176873-5AB3-49AA-90D7-9AF11FA07B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB176873-5AB3-49AA-90D7-9AF11FA07B17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2A8A511-00F5-4651-9A9B-38796EE82C38}
+	EndGlobalSection
+EndGlobal
